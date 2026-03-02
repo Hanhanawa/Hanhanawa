@@ -24,7 +24,6 @@
 ![Android 16 Baklava](https://img.shields.io/badge/Android%2016%20Baklava-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Windows 11 Pro 24H2](https://img.shields.io/badge/Windows%2011%20Pro%2024H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Ubuntu 25.10](https://img.shields.io/badge/Ubuntu%2025.10-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
-![SteamOS](https://img.shields.io/badge/SteamOS-1A9FFF?style=flat-square&logo=steamdeck&logoColor=ffffff)
 
 ## 📱 Devices in Use
 
