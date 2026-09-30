@@ -2,7 +2,7 @@
 
 ### Hi there 👋 Exploring the boundaries of Android & Kernel.
 
-> ⚡ A developer who is passionate about Android Kernel, Minecraft Modding, and collecting vintage/flagship electronic devices.
+> ⚡ A developer who is passionate about Android Kernel, and collecting vintage/flagship electronic devices.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hanhan_awa&hide_border=true&title_color=6750A4&layout=compact&bg_color=FEF7FF&border_radius=20">
 
@@ -11,9 +11,6 @@
 - Programmer / Android Kernel Developer / Minecraft Modder
 - Amateur Kernel Researcher / Homelabber
 
-
-
-😄 Currently I’m working on **Android Kernel** optimization and a high-performance **Minecraft Hack Mod**.
 
 🤔 Check out my device matrix below, or reach out to me via the "Follow" button.
 
