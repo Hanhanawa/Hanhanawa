@@ -4,7 +4,7 @@
 
 > ⚡ A developer who is passionate about Android Kernel, and collecting vintage/flagship electronic devices.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hanhan_awa&hide_border=true&title_color=6750A4&layout=compact&bg_color=FEF7FF&border_radius=20">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hanhanawa&hide_border=true&title_color=6750A4&layout=compact&bg_color=FEF7FF&border_radius=20">
 
 - Chinese / Male / Developer
 - zh-CN / en-US
